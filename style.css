@@ -291,7 +291,7 @@ ul.snsbtn{
 
 /* schedule.html */
 .fixed-bg{
-    min-height: 100vh;
+    height: 100vh;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
