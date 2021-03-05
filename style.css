@@ -289,34 +289,6 @@ ul.snsbtn{
     width: 100px;
 }
 
-/* schedule.html */
-.fixed-bg{
-    height: 100vh;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    opacity: 0.8;
-}
-.background0{
-    margin: 0;
-    background-image: url(images/schedule/logo.jpg);
-}
-.background1{
-    background-image: url(images/schedule/IMG_1709.JPG);
-}
-.background2{
-    background-image: url(images/schedule/flying.jpg);
-}
-.background3{
-    background-image: url(images/schedule/rot.jpg);
-}
-.background4{
-    background-image: url(images/schedule/uenosama.jpg);
-}
-.background5{
-    background-image: url(images/schedule/ski-m.jpg);
-}
-
 /* why.html */
 .why li{
     opacity: 0;
